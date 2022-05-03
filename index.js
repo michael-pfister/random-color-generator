@@ -11,7 +11,7 @@ const ColorCodes = [
   ['yellow', '#ffff00.'],
   ['cyan', '#00ffff'],
 ];
-var random_color = '#' + Math.floor(Math.random() * 16777215).toString(16); // string of random hex color
+const random_color = '#' + Math.floor(Math.random() * 16777215).toString(16); // string of random hex color
 
 function GetHexValue(color) {
   var HexValue;

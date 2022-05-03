@@ -51,3 +51,7 @@ $ node index.js
 ###############################
 ###############################
 ```
+
+## Hint
+
+Don't use Hyper for this since it doesn't support the entire HEX color scheme (it will use the most similiar color it knows).
